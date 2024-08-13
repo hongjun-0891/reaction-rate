@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# But track these files
+.gitignore
+README.md
+Arrangement/Test_arg.java
+If/ifexam.java 
+If/ifexam.java 
+If/ifexam.java 
+If/ifexam.java 
+If/ifexam.java 
+Array1_test2.class 
+Array1_test2.class 
+Array1_test2.java 
+ECHO가 설정되어 있지 않습니다.
+d 
+새 텍스트 문서.txt 
